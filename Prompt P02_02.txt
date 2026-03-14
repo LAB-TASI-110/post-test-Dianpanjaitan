@@ -1,0 +1,11 @@
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+
+1.  Jumlah total data (N).
+2.  Deret stok (s1, s2, ..., sN).
+3.  Kode kategori barang.
+
+<p align="center">
+  <img src="image/rak.png" width="300">
+</p>
+
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. buat lah sebuah program menggunakan bahasa pemogramann bahasa c dan akan menjalankan di aplikasi vscode menggunakan  sistem operasi windows, tidak spesifiksi teknik khusus dan di organisir sebagai satu fungsi main saja serta memerlukan kode lengkap yang siap dijalankan , tidak ada batasan negatif yang tidak boleh diimplmentasikan dan untuk lingkup pengerjaan spesifik nya adalah backend menggunakan standar kualitas kode seperti penulisan kode bersih (clean code), tidak perlu mengambil persona cukup sajikan program nya dalam bentuk bahasa c yang sesuai dengan soal dan untuk validasi input nya adalah menggunakan bilangan bulat positif tanpa menggunakan pembatas tertentu seperti tanda --- atau ```` untuk memisahkan bagian bagian pada struktur output nya tidak perlu menjabarkan langkah-langkah pemikiran atau proses yang akan anda ikuti sebelum memberikan solusi kode, serta tidak ada pembatas spesifik yang ingin saya gunakan dalam prompt ini untuk memisahkan bagian-bagian konteks

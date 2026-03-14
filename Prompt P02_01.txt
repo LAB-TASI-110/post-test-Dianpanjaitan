@@ -1,0 +1,54 @@
+Suatu sore yang cukup sibuk di kampus, dua mahasiswa IT Del, Ucok dan Butet, sedang duduk di depan asrama sambil memandangi beberapa dus besar yang tergeletak di samping mereka. Setelah menyelesaikan minggu yang penuh dengan tugas kuliah dan praktikum, mereka akhirnya punya waktu untuk mengirimkan beberapa barang ke kampung halaman masing-masing.
+
+“Waduh, kalau kita kirim lewat jasa biasa mahal juga ya,” kata Butet sambil menimbang salah satu dus miliknya.
+
+Ucok kemudian tersenyum dan menunjuk sebuah brosur yang ia temukan di papan pengumuman kampus.
+
+“Tenang saja, Tet. Katanya ada jasa pengiriman baru namanya Del-Express. Sistemnya transparan dan perhitungannya otomatis,” ujar Ucok.
+
+Butet langsung terlihat tertarik. “Wah, cocok nih. Kita kan anak IT, masa masih pakai hitung manual!”
+
+Mereka pun berjalan menuju kantor layanan Del-Express yang berada tidak jauh dari kampus. Setibanya di sana, mereka melihat sebuah papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan.
+
+<p align="center">
+  <img src="image/ongkir.png" width="500">
+</p>
+
+Tidak jauh dari papan daftar ongkir, terdapat sebuah poster promo menarik yang ditempel di dinding.
+
+<p align="center">
+  <img src="image/promo.png" width="400">
+</p>
+
+Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan.
+<p align="center">
+  <img src="image/perbandingan.png" width="500">
+</p>
+
+Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.
+<p align="center">
+  <img src="image/kode.png" width="500">
+</p>
+
+**Input**
+
+```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+```
+
+**Output**
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+buatlah sebuah program menggunakan bahasa pemrograman c dan akan menjalankan program di applikasi vs code menggunakan sistem operasi windows, tidak ada spesifikasi teknik khusus dan diorganisir sebagai satu fungsi main saja serta memerlukan kode lengkap yang siap dijalankan, tidak ada batasan negatif yang tidak boleh diimplmentasikan dan untuk lingkup pengerjaan spesifik nya adalah backend menggunakan standar kualitas kode seperti penulisan kode bersih (clean code), tidak perlu mengambil persona cukup sajikan program nya dalam bentuk bahasa c yang sesuai dengan soal dan untuk validasi input nya adalah menggunakan bilangan bulat positif tanpa menggunakan pembatas tertentu seperti tanda --- atau ```` untuk memisahkan bagian bagian pada struktur output nya tidak perlu menjabarkan langkah-langkah pemikiran atau proses yang akan anda ikuti sebelum memberikan solusi kode, serta tidak ada pembatas spesifik yang ingin saya gunakan dalam prompt ini untuk memisahkan bagian-bagian konteks
